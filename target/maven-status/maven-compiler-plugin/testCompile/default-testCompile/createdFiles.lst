@@ -1,0 +1,7 @@
+com\SelMiniProj\testCases\BaseClass.class
+com\SelMiniProj\utilities\Reporting.class
+com\SelMiniProj\pageObjects\LoginPage.class
+com\SelMiniProj\utilities\XLUtils.class
+com\SelMiniProj\testCases\TC_LoginDDT_002.class
+com\SelMiniProj\utilities\ReadConfig.class
+com\SelMiniProj\testCases\TC_LoginTest_01.class

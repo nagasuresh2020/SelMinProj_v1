@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SelMiniProjv1" duration-ms="11130" started-at="2020-06-05T22:01:48Z" finished-at="2020-06-05T22:01:59Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="11130" started-at="2020-06-05T22:01:48Z" finished-at="2020-06-05T22:01:59Z">
+      <class name="com.SelMiniProj.testCases.TC_LoginDDT_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.SelMiniProj.testCases.TC_LoginDDT_002@458ad742]" name="setup" is-config="true" duration-ms="6844" started-at="2020-06-05T22:01:48Z" finished-at="2020-06-05T22:01:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.SelMiniProj.testCases.TC_LoginDDT_002@458ad742]" name="loginDDT" duration-ms="434" started-at="2020-06-05T22:01:56Z" data-provider="LoginData" finished-at="2020-06-05T22:01:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@example.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.SelMiniProj.testCases.TC_LoginDDT_002@458ad742]" name="loginDDT" duration-ms="316" started-at="2020-06-05T22:01:57Z" data-provider="LoginData" finished-at="2020-06-05T22:01:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[def@example.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qAbUzyj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.SelMiniProj.testCases.TC_LoginDDT_002@458ad742]" name="loginDDT" duration-ms="359" started-at="2020-06-05T22:01:57Z" data-provider="LoginData" finished-at="2020-06-05T22:01:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ghi@example.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bAdYvyb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.SelMiniProj.testCases.TC_LoginDDT_002@458ad742]" name="loginDDT" duration-ms="484" started-at="2020-06-05T22:01:58Z" data-provider="LoginData" finished-at="2020-06-05T22:01:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jkl@example.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.SelMiniProj.testCases.TC_LoginDDT_002@458ad742]" name="loginDDT" duration-ms="375" started-at="2020-06-05T22:01:58Z" data-provider="LoginData" finished-at="2020-06-05T22:01:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[klmTest@example.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1235]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.SelMiniProj.testCases.TC_LoginDDT_002@458ad742]" name="tearDown" is-config="true" duration-ms="621" started-at="2020-06-05T22:01:58Z" finished-at="2020-06-05T22:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SelMiniProj.testCases.TC_LoginDDT_002 -->
+    </test> <!-- Login Test -->
+  </suite> <!-- SelMiniProjv1 -->
+</testng-results>

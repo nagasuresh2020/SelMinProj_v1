@@ -1,0 +1,11 @@
+URL: 
+file:///C:/Naga/Per/SoftwareTestingHelp/Valid%20Login%20Form/index.html
+Login Form
+
+file:///C:/Naga/Per/SoftwareTestingHelp/Valid%20Login%20Form/home.html
+Welcome, Successfully Login :)
+
+User/Email:abc@example.com
+Password: Test1234
+
+Dependencies Page: mvnrepository.com
